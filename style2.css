@@ -5,3 +5,8 @@ h2 {
   border: 2px groove #000080;
   padding: 4px;
 }
+p {
+  border: 2px dashed #FF44FF;
+  border-radius: 15px 30px 600px 5px;
+  background-color: #FF80FF;
+}
